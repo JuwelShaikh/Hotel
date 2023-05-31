@@ -1,0 +1,18 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar img{
+    width: 10%;
+}
+.carousel-inner img{
+    height: 100vh;
+}
+span{
+    color: tomato;
+    
+}
+.menu {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: space-around;
+}
